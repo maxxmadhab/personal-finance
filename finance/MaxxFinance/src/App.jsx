@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import TransactionForm from "./components/TransactionForm";
-import TransactionList from "./components/TransactionList";
+import TransactionForm from "./components/Transactionform";
+import TransactionList from "./components/Transactionlist";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import Chart from "./components/Chart";
